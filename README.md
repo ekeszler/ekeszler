@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Java, MySQL**
 
-- 👯 I’m looking to collaborate on **backend development**
+- 👯 I’m looking to collaborate on **backend software development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ekeszler?tab=repositories](https://github.com/ekeszler?tab=repositories)
 
